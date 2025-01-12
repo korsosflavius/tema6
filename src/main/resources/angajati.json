@@ -1,0 +1,32 @@
+[
+  {
+    "numele": "Ion Popescu",
+    "postul": "Manager",
+    "data_angajarii": "2020-01-15",
+    "salariul": 5000
+  },
+  {
+    "numele": "Maria Ionescu",
+    "postul": "Contabil",
+    "data_angajarii": "2019-03-01",
+    "salariul": 4000
+  },
+  {
+    "numele": "George Vasile",
+    "postul": "Inginer",
+    "data_angajarii": "2021-07-10",
+    "salariul": 3500
+  },
+  {
+    "numele": "Ana Mihai",
+    "postul": "Secretara",
+    "data_angajarii": "2022-05-20",
+    "salariul": 3000
+  },
+  {
+    "numele": "Stefan Dinu",
+    "postul": "IT Support",
+    "data_angajarii": "2023-09-15",
+    "salariul": 2800
+  }
+]
